@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Mono:wght@500&display=swap');
+
+
+.nav-link{
+    font-family: Roboto Mono;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+
+/* White-low_opacity */
+
+color: #BFBFBF;
+}
+#hero{
+    background-color: #000;
+}
+p.top{padding-top: 234px;
+    font-family: Roboto Mono;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+h1.top1{padding-top: 64px;
+    font-family: Bebas Neue;
+font-style: normal;
+font-weight: bold;
+font-size: 120px;
+line-height: 120px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+h2.top2{
+    font-family: Bebas Neue;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 60px;
+/* identical to box height */
+
+
+/* White-low_opacity */
+
+color: #BFBFBF;
+}
+p.top3{
+    font-family: Roboto Mono;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* or 160% */
+
+
+/* White-low_opacity */
+
+color: #BFBFBF;
+border: 1px solid #000000;
+}
+
+span.samui{
+    color: #29DEA8;
+}
+
+.social-media{
+    padding-top: 77px;
+}
+
+#works{
+    padding-top: 167px;
+    background-color: #000000;
+}
+
+h1.myworks{
+    font-family: Bebas Neue;
+font-style: normal;
+font-weight: bold;
+font-size: 120px;
+line-height: 120px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+opacity: 0.1;
+}
+
+.worksimage1{
+    padding-top: 52px;
+}
+
+#about-me{
+    padding-top: 167px;
+    background-color: #000000;
+}
+p.about-me{
+    font-family: Roboto Mono;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 38px;
+padding-top: 60px;
+}
+
+#contact{
+    padding-top: 167px;
+    background-color: #000000;
+}
+
+p.contact{
+    font-family: Roboto Mono;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 38px;
+/* or 190% */
+
+
+/* White-low_opacity */
+
+color: #BFBFBF;
+}
+
+p.email{
+    font-family: Roboto Mono;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 38px;
+/* identical to box height, or 190% */
+
+text-decoration-line: underline;
+
+/* Primary-color2 - #29DEA8 */
+
+color: #29DEA8;
+}
+
+footer.c{
+    padding-top: 167px;
+    background-color: #000000;
+}
+p.foot{
+    font-family: Roboto Mono;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 38px;
+/* identical to box height, or 190% */
+
+
+/* #4F4F4F */
+
+color: #4F4F4F;
+}
+
+hr.new{
+    border: 1px solid #333333;
+}
